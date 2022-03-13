@@ -26,12 +26,15 @@ Pandas and Matplotlib libraries were used throughout the project to work with th
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="drawing" width="100"/>
   </div>
   <div class="column">
+    <img align="left" src="https://twilio-cms-prod.s3.amazonaws.com/images/twitter-python-logos.width-808.jpg" width="160"/>
+  </div>
+  <div class="column">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="drawing" width="100"/>
   </div>
   <div class="column">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="drawing" width="200"/>
   </div>
   <div class="column">
-    <img align="left" src="https://twilio-cms-prod.s3.amazonaws.com/images/twitter-python-logos.width-808.jpg" width="120"/>
+    <img align="left" src="https://twilio-cms-prod.s3.amazonaws.com/images/twitter-python-logos.width-808.jpg" width="160"/>
   </div>
 </div>
