@@ -32,6 +32,6 @@ Pandas and Matplotlib libraries were used throughout the project to work with th
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="drawing" width="200"/>
   </div>
   <div class="column">
-    <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twilio.com%2Fblog%2Fbuild-deploy-twitter-bots-python-tweepy-pythonanywhere&psig=AOvVaw05QX0txD1jNrwUzaZFENTg&ust=1647222100374000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJja8dP6wfYCFQAAAAAdAAAAABAN" width="120"/>
+    <img align="left" src="https://twilio-cms-prod.s3.amazonaws.com/images/twitter-python-logos.width-808.jpg" width="120"/>
   </div>
 </div>
