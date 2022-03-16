@@ -7,11 +7,11 @@ Used Natural Language Processing techniques to analyze the sentiment of tweets a
 
 ## Description
 
-This project gets tweets with the youtube keyword during two different periods of time. Before and After youtube announced the removal of the dislike button. I performed Sentiment Analysis on the tweets to observe the how the tweets sentiment changed towards youtube after the announcement.
+This project gets tweets with the youtube keyword during two different periods of time. Before and After youtube announced the removal of the dislike button. I performed Sentiment Analysis on the tweets to observe the how the tweets' sentiment changed towards youtube after the announcement.
 
-* Use twitter API to scrape tweets with the Youtube keyword and store the dataset in a csv file.
+* Used twitter API to scrape tweets with the Youtube keyword and store the dataset in a csv file.
 
-* Cleaned the dataset by removing duplicates, english stop-words and links from the tweets
+* Cleaned the dataset by removing duplicates, english stop-words and links from the tweets.
 
 * Performed Latent Semantic Analysis on the tweets to extract the topics in the tweets.
 
